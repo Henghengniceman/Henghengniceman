@@ -9,6 +9,9 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=henghengniceman" />
 </div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
 - 👀 I’m interested in scientific data analysis. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
