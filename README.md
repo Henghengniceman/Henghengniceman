@@ -5,6 +5,10 @@
 <span>  </span>
 </div>
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=henghengniceman" />
+</div>
+
 - 👀 I’m interested in scientific data analysis. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
