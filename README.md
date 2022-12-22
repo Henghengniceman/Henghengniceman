@@ -1,4 +1,6 @@
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1800F7&width=435&lines=I+am+hengheng%EF%BC%8C+welcome+to+my+github...+;%E6%88%91%E6%98%AF%E8%A1%A1%E8%A1%A1%EF%BC%8C+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1800F7&width=1000&height=100&lines=I+am+hengheng%EF%BC%8C+welcome+to+my+github...+;%E6%88%91%E6%98%AF%E8%A1%A1%E8%A1%A1%EF%BC%8C+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github)](https://git.io/typing-svg)
+
 - 👀 I’m interested in scientific data analysis. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
