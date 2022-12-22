@@ -1,12 +1,8 @@
-- 👋 Hi, I’m hengheng
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1800F7&width=435&lines=I+am+hengheng%EF%BC%8C+welcome+to+my+github...+;%E6%88%91%E6%98%AF%E8%A1%A1%E8%A1%A1%EF%BC%8C+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
 - 👀 I’m interested in scientific data analysis. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Achuan-2+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
-</p>
 
 <!---
 Henghengniceman/Henghengniceman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
