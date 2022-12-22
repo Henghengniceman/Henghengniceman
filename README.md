@@ -9,9 +9,8 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=henghengniceman" />
 </div>
 
-<div align="center">
-    [![Hengheng Zhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+[![Hengheng Zhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=henghengniceman&theme=minimal" />
