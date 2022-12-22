@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=henghengniceman&theme=minimal" />
 </div>
 - 👀 I’m interested in scientific data analysis. 
 - 🌱 I’m currently learning ...
