@@ -8,8 +8,6 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=henghengniceman" />
 </div>
-
-[![Hengheng Zhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 Henghengniceman/Henghengniceman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
